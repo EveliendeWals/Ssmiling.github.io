@@ -1,0 +1,31 @@
+* {
+    margin: 0%;
+}
+#wrapper {
+    width: 1260px;  height: 1000px;
+    background-color: #dddd;
+}
+h1 {
+    font-family: initial;
+    background-color: black;
+    color:whitesmoke
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.blok {
+    background-color:  blue;
+    color: whitesmoke;
+    width: 200px;   height: 430px;
+    border: 2px solid black; 
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    margin-top: 25px;
+    height: 25px;
+}
